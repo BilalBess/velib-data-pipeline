@@ -1,0 +1,6 @@
+pandas
+pyarrow
+requests
+duckdb
+streamlit
+plotly

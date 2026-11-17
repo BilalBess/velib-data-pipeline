@@ -1,0 +1,7 @@
+data/raw/
+data/marts/
+__pycache__/
+.venv/
+.DS_Store
+.pytest_cache/
+.ruff_cache/
